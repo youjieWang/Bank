@@ -1,62 +1,92 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/my_bg"
-    android:gravity="center_vertical"
-    android:orientation="horizontal" >
-
-    <LinearLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1.0"
-        android:background="@drawable/turnplate_bg_left"
-        android:gravity="center"
-        android:orientation="vertical" >
-
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="劲松银行"
-            android:textColor="#000"
-            android:textSize="20dp" />
-
-        <TextView
-            android:layout_width="fill_parent"
-            android:gravity="center"
-            android:layout_height="wrap_content"
-			android:textAlignment="inherit"
-            android:layout_marginTop="5dp"
-            android:text="劲松银行简介............"
-            android:textColor="#000"
-            android:textSize="13.5dip" />
-    </LinearLayout>
-
+    android:layout_height="match_parent">
     <FrameLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" >
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-        <com.zhy.view.CircleMenuLayout
-            android:id="@+id/id_menulayout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/turnplate_bg_right" >
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 
-            <RelativeLayout
-                android:id="@id/id_circle_menu_item_center"
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/my_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_marginTop="50dp">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/turnplate_bg_left"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="劲松银行"
+                    android:textColor="#000"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="inherit"
+                    android:layout_marginTop="5dp"
+                    android:text="劲松银行简介............"
+                    android:textColor="#000"
+                    android:textSize="13.5dip" />
+            </LinearLayout>
+
+            <FrameLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
-                    android:layout_width="104.0dip"
-                    android:layout_height="104.0dip"
-                    android:layout_centerInParent="true"
-                    android:background="@drawable/turnplate_center_unlogin"
-                    android:clickable="true"/>
+                <com.zhy.view.CircleMenuLayout
+                    android:id="@+id/id_menulayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/turnplate_bg_right" >
 
-            </RelativeLayout>
-        </com.zhy.view.CircleMenuLayout>
+                    <RelativeLayout
+                        android:id="@id/id_circle_menu_item_center"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" >
+
+                        <ImageView
+                            android:layout_width="104.0dip"
+                            android:layout_height="104.0dip"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/turnplate_center_unlogin"
+                            android:clickable="true"/>
+
+                    </RelativeLayout>
+                </com.zhy.view.CircleMenuLayout>
+            </FrameLayout>
+        </LinearLayout>
     </FrameLayout>
 
-</LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:menu="@menu/nav_menu"
+        app:headerLayout="@layout/nav_header"/>
+</android.support.v4.widget.DrawerLayout>

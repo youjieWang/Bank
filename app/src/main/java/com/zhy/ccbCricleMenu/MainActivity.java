@@ -17,6 +17,7 @@ import com.zhy.UIChat.MsgActivity;
 
 public class MainActivity extends ListActivity
 {
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
@@ -38,7 +39,7 @@ public class MainActivity extends ListActivity
 			intent = new Intent(this, CCBActivity.class);
 		} else
 		{
-			intent = new Intent(this, CircleActivity.class);
+			//intent = new Intent(this, CircleActivity.class);
 		}
 		startActivity(intent);
 	}

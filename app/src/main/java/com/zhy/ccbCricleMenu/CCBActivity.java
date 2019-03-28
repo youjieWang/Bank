@@ -3,8 +3,16 @@ package com.zhy.ccbCricleMenu;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -20,6 +28,7 @@ import com.zhy.view.CircleMenuLayout.OnMenuItemClickListener;
  */
 public class CCBActivity extends AppCompatActivity
 {
+	private DrawerLayout mDrawerLayout;
 
 	private CircleMenuLayout mCircleMenuLayout;
 	private TextView textView;
@@ -36,10 +45,27 @@ public class CCBActivity extends AppCompatActivity
 	protected void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-		
 		//自已切换布局文件看效果
 //		setContentView(R.layout.activity_main02);
 		setContentView(R.layout.activity_main);
+
+		Toolbar toolbar = findViewById(R.id.toolbar);
+		setSupportActionBar(toolbar);
+		mDrawerLayout = findViewById(R.id.drawer_layout);
+		NavigationView navView = findViewById(R.id.nav_view);
+		ActionBar actionBar = getSupportActionBar();
+		if(actionBar != null){
+			actionBar.setDisplayHomeAsUpEnabled(true);  //显示导航栏
+			actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);  //设置导航按钮图标
+		}
+		navView.setCheckedItem(R.id.nav_call);  //将call默认为选中
+		navView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+			@Override
+			public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
+				mDrawerLayout.closeDrawers();
+				return true;
+			}
+		});
 
 		mCircleMenuLayout = (CircleMenuLayout) findViewById(R.id.id_menulayout);
 		mCircleMenuLayout.setMenuItemIconsAndTexts(mItemImgs, mItemTexts);
@@ -54,7 +80,7 @@ public class CCBActivity extends AppCompatActivity
 			{
                 //OnClick onClick = new OnClick(pos);
                 //onClick.onClick(view);
-                if(mItemTexts[pos] == "特色服务"){
+                if(mItemTexts[pos].equals("特色服务")){
                     Intent intent = new Intent();
                     Log.i("safe4","44444 "+pos);
                     //listener(pos);  //设置监听机制
@@ -79,34 +105,28 @@ public class CCBActivity extends AppCompatActivity
 			}
 		});
 	}
-	public void listener(int pos){
-		OnClick onClick = new OnClick(pos);
-		Log.i("safe1","111111");
-		Log.i("teext",textView.getText().toString());
-		textView.setOnClickListener(onClick);
-		Log.i("safe6","66666");
+	public boolean onCreateOptionsMenu(Menu menu){
+		getMenuInflater().inflate(R.menu.toolbar, menu);  //加载Toolbar.xml这个文件
+		return true;
 	}
 
-	public class OnClick implements View.OnClickListener{
-		public int pos;
-		public OnClick(int pos){
-			this.pos = pos;
+	public boolean onOptionsItemSelected(MenuItem item){  //处理各方法的点击事件
+		switch (item.getItemId()){
+			case android.R.id.home:  //这里HomeAsUp按钮的id永远是android.R.id.home
+				mDrawerLayout.openDrawer(GravityCompat.START);  //这个方法是为了显示华东菜单的展示。
+				break;
+			case R.id.backup:
+				Toast.makeText(this, "you clicked backup", Toast.LENGTH_SHORT).show();
+				break;
+			case R.id.delete:
+				Toast.makeText(this, "you clicked deleted", Toast.LENGTH_SHORT).show();
+				break;
+			case R.id.settings:
+				Toast.makeText(this, "you clicked settings", Toast.LENGTH_SHORT).show();
+				break;
+			default:
 		}
-		@Override
-		public void onClick(View v) {
-			Intent intent = new Intent();
-			Log.i("safe5","55555");
-			switch (v.getId()){
-				case R.id.id_circle_menu_item_image:
-					Log.i("safe2","222222");
-					intent.setClass(CCBActivity.this,MsgActivity.class);
-					break;
-				default:
-					intent = null;
-					break;
-			}
-			startActivity(intent);
-		}
+		return true;
 	}
 
 }
