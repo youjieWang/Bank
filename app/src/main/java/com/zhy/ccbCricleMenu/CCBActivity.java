@@ -17,7 +17,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.zhy.MyKF.KF2Activity;
 import com.zhy.UIChat.MsgActivity;
+import com.zhy.joh.qiyudemo.KFActivity;
 import com.zhy.view.CircleMenuLayout;
 import com.zhy.view.CircleMenuLayout.OnMenuItemClickListener;
 /**
@@ -84,7 +86,7 @@ public class CCBActivity extends AppCompatActivity
                     Intent intent = new Intent();
                     Log.i("safe4","44444 "+pos);
                     //listener(pos);  //设置监听机制
-                    intent.setClass(CCBActivity.this,MsgActivity.class);
+                    intent.setClass(CCBActivity.this,KF2Activity.class);
                     Log.i("safe3","23333");
                     startActivity(intent);
                     Log.i("safe10","10101010");

@@ -1,30 +1,36 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f9a06bbffd858f1d6ba84baf7e4b11d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:2:1-151:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0c8ef6a24a2249101d921f2e6e640867\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8334389b18b88045c932fdd9cc1ffd3e\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5bf4fd4df05fa9a9cfc2d1cad3ebdede\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\146b9a9bcd9140ce94a704cac4138b9f\AndroidManifest.xml:17:1-22:12
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\bf458dced099f3d918123e26d4022836\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\99df2455ccbde4b79c8dd48005214457\AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.16.aar\8de1ab2bdb58ec26046f088b40e734d0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.paradigm:BotLib:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotLib-2.5.0.aar\166cf9c46c98904e944a339368df0045\AndroidManifest.xml:2:1-11:12
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\865933184d31a0b2ff7672f3e4b30b55\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1a41e083d168995881fdc7cfeab9ea0a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\98f8de0c13ef17b15a2e3e0c44945e1f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\03aef85803ecad3648c60912dad5ac54\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5e86d6334815404e4ca6a9b8ee92cbf6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\11a79f285189720b859ea97d6b3ad1ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0efc64df161a237fba96854ae795a9de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\36be7efedfdb7315e231e751199b0480\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f0c2133dcc212e6772ad34581903b503\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a86a3a195098ce64c69cb8dc80cdf81c\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\23f091fa81c02245318169dff20a68fc\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7186b723ef6cc1229f67aab8a5c40a62\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
@@ -40,51 +46,71 @@ INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\m
 		INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:12:5-28:19
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:12:5-33:19
+MERGED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:41:5-149:19
+MERGED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:41:5-149:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8334389b18b88045c932fdd9cc1ffd3e\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8334389b18b88045c932fdd9cc1ffd3e\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\bf458dced099f3d918123e26d4022836\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\bf458dced099f3d918123e26d4022836\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\99df2455ccbde4b79c8dd48005214457\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\99df2455ccbde4b79c8dd48005214457\AndroidManifest.xml:10:5-20
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:15:5-22:19
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:15:5-22:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\36be7efedfdb7315e231e751199b0480\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\36be7efedfdb7315e231e751199b0480\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:15:9-41
-	android:icon
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:14:9-45
-	android:allowBackup
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:13:9-35
-	android:theme
 		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:17:9-41
+	android:name
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:13:9-50
 activity#com.zhy.ccbCricleMenu.MainActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:18:13-62
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.zhy.UIChat.MsgActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:26:9-95
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:27:9-29:38
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:26:61-83
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:29:13-35
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:26:19-60
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:28:13-54
 activity#com.zhy.ccbCricleMenu.CCBActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:27:9-58
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:30:9-49
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:27:19-46
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.zhy.joh.qiyudemo.KFActivity
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:31:19-65
+activity#com.zhy.MyKF.KF2Activity
+ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:32:9-70
+	android:name
+		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml:32:19-58
 uses-sdk
 INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f9a06bbffd858f1d6ba84baf7e4b11d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f9a06bbffd858f1d6ba84baf7e4b11d\AndroidManifest.xml:20:5-44
+MERGED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0c8ef6a24a2249101d921f2e6e640867\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0c8ef6a24a2249101d921f2e6e640867\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8334389b18b88045c932fdd9cc1ffd3e\AndroidManifest.xml:5:5-7:41
@@ -95,8 +121,14 @@ MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\146b9a9bcd9140ce94a704cac4138b9f\AndroidManifest.xml:20:5-44
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\bf458dced099f3d918123e26d4022836\AndroidManifest.xml:5:5-7:41
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\bf458dced099f3d918123e26d4022836\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\99df2455ccbde4b79c8dd48005214457\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\99df2455ccbde4b79c8dd48005214457\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.16.aar\8de1ab2bdb58ec26046f088b40e734d0\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.16.aar\8de1ab2bdb58ec26046f088b40e734d0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.paradigm:BotLib:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotLib-2.5.0.aar\166cf9c46c98904e944a339368df0045\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paradigm:BotLib:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotLib-2.5.0.aar\166cf9c46c98904e944a339368df0045\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\865933184d31a0b2ff7672f3e4b30b55\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\865933184d31a0b2ff7672f3e4b30b55\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1a41e083d168995881fdc7cfeab9ea0a\AndroidManifest.xml:20:5-44
@@ -109,8 +141,12 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Admini
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5e86d6334815404e4ca6a9b8ee92cbf6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\11a79f285189720b859ea97d6b3ad1ba\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\11a79f285189720b859ea97d6b3ad1ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3f583116b93d50315d18ed3c31586b6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0efc64df161a237fba96854ae795a9de\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0efc64df161a237fba96854ae795a9de\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\36be7efedfdb7315e231e751199b0480\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\36be7efedfdb7315e231e751199b0480\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f0c2133dcc212e6772ad34581903b503\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f0c2133dcc212e6772ad34581903b503\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a86a3a195098ce64c69cb8dc80cdf81c\AndroidManifest.xml:20:5-44
@@ -129,3 +165,285 @@ INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\m
 		INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 		ADDED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Users\Administrator\AndroidStudioProjects\com_Draker1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:12:5-67
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:11:5-67
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:25:5-81
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:13:5-81
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:28:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:29:5-71
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:12:5-71
+MERGED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:32:5-83
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:32:22-80
+uses-feature#android.hardware.microphone
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:35:9-51
+uses-feature#android.hardware.camera
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:38:9-47
+service#com.qiyukf.nimlib.service.NimService
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:44:9-46:39
+	android:process
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:45:13-64
+service#com.qiyukf.nimlib.service.NimService$Aux
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:47:9-49:39
+	android:process
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:48:13-68
+service#com.qiyukf.unicorn.analytics.AnalyticsService
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:50:9-52:39
+	android:process
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:51:13-73
+receiver#com.qiyukf.nimlib.service.NimReceiver
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:55:9-63:20
+	android:process
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:58:13-36
+	android:exported
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:56:13-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:59:13-62:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:60:17-79
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:60:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:61:17-79
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:61:25-76
+service#com.qiyukf.nimlib.service.WakeupService
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:66:9-75
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:66:18-72
+provider#com.qiyukf.nim.uikit.provider.UnicornProvider
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:69:9-77:20
+	android:grantUriPermissions
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:73:13-47
+	android:authorities
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:71:13-72
+	android:exported
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:70:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:74:13-76:56
+	android:resource
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:76:17-53
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:75:17-67
+activity#com.qiyukf.unicorn.ui.activity.ServiceMessageActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:79:9-85:70
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:85:13-67
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:81:13-74
+	android:icon
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:82:13-69
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:80:13-81
+activity#com.qiyukf.nim.uikit.session.activity.WatchMessagePictureActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:86:9-91:70
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:91:13-67
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:88:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:90:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:87:13-93
+activity#com.qiyukf.nim.uikit.session.activity.PickImageActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:92:9-97:70
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:97:13-67
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:94:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:96:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:93:13-83
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:98:9-102:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:101:13-49
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:100:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:102:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:99:13-97
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:103:9-107:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:106:13-49
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:105:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:107:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:104:13-104
+activity#com.qiyukf.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:108:9-114:70
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:111:13-57
+	android:windowSoftInputMode
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:114:13-67
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:110:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:113:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:109:13-108
+activity#com.qiyukf.unicorn.ui.activity.FileDownloadActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:115:9-120:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:118:13-63
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:117:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:120:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:116:13-79
+activity#com.qiyukf.unicorn.ui.activity.UrlImagePreviewActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:121:9-125:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:124:13-49
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:123:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:125:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:122:13-82
+activity#com.qiyukf.unicorn.ui.activity.CardPopupActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:126:9-130:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:129:13-49
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:130:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:127:13-76
+activity#com.qiyukf.unicorn.ui.activity.LeaveMessageDetailActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:131:9-136:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:134:13-70
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:133:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:136:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:132:13-85
+activity#com.qiyukf.nim.uikit.session.activity.CaptureVideoActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:137:9-142:70
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:140:13-49
+	android:windowSoftInputMode
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:142:13-67
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:139:13-63
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:141:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:138:13-86
+activity#com.qiyukf.nim.uikit.session.activity.WatchVideoActivity
+ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:143:9-148:55
+	android:screenOrientation
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:146:13-51
+	android:configChanges
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:145:13-74
+	android:theme
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:148:13-52
+	android:name
+		ADDED from [com.qiyukf.unicorn:unicorn:4.9.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\unicorn-4.9.1.aar\4d4b74e274e5cece52f1cb703c035621\AndroidManifest.xml:144:13-84
+activity#com.paradigm.botkit.ChatActivity
+ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:16:9-19:58
+	android:windowSoftInputMode
+		ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:17:13-60
+activity#com.paradigm.botkit.ImageActivity
+ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:20:9-70
+	android:name
+		ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:20:19-67
+activity#com.paradigm.botkit.WebActivity
+ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from [com.paradigm:BotKit:2.5.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BotKit-2.5.0.aar\7f4d0c7cb54cc58e92f3a95864d3eef0\AndroidManifest.xml:21:19-65
